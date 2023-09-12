@@ -1,0 +1,20 @@
+pour la securiter et l’organisation
+
+Doc /: app (contient toute les classe)
+
+Fich /: Autoloader.php (permet d’autoloder automatiquement les element d’une class d’un namespaces particulier “App”)
+
+Doc /: pages 
+
+Doc /: template
+
+Fich /: home.php
+
+Doc /: public (contient tout les dossier public)
+
+Doc /: js
+
+Doc /: css
+
+Fich /: index.php (la racine)
+bbb

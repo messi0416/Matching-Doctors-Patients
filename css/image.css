@@ -1,0 +1,19 @@
+.bg-login-image10 {
+    background-image: url(../img\lit.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+
+  
+
+.bg-register-image10 {
+    background-image: url(../img\lit.jpg) !important;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .bg-password-image10 {
+    background: url(../img\lit.jpg) !important;
+    background-position: center;
+    background-size: cover;
+  }

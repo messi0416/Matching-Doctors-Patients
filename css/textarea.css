@@ -1,0 +1,70 @@
+body {
+    margin: 5%;
+    
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.span_subtitle {
+    font-size: 14.0pt; 
+    line-height: 105%;
+}
+
+.subtitle {
+    margin: 0in; 
+    text-align: justify; 
+    line-height: 105%; 
+    break-after: avoid; 
+    border: none; 
+    padding: 0in; 
+    font-size: 14pt; 
+    
+}
+div.avis {
+    border: solid windowtext 1.0pt;
+    padding: 1.0pt 4.0pt 1.0pt 4.0pt;
+}
+
+p {
+    margin-left: 1rem; 
+    text-align: justify; 
+    line-height: 105%; 
+    font-size: 12pt; 
+    font-family: Calibri, sans-serif;
+}
+.p_intro {
+    margin: 0in;
+    line-height: normal;
+    padding-left: 10pt;
+}
+select {
+    appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 150px;
+  height: 30px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+}
+option {
+    width: 150px;
+    height: 30px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    display: none;
+}
+input {
+    width: 150px;
+    height: 30px;
+    border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+}

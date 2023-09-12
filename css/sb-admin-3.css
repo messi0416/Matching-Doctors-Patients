@@ -1,0 +1,35 @@
+.top {
+    margin-top: 32px;
+}
+.grand {
+
+    width: 10cm !important;
+  }
+
+textarea {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5 !important;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+.logo {
+    max-width: auto;
+    max-height: 38px;
+}
+
+.image-preview {
+    margin-top: 5rem;
+    width: 60%;
+    height: auto;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.image-preview img {
+    max-width: 100%;
+    max-height: 100%;
+}

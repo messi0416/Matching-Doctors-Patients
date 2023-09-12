@@ -1,0 +1,8 @@
+{
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "tinymce/tinymce": "^5.8",
+        "phpmailer/phpmailer": "^6.8",
+        "getbrevo/brevo-php": "1.x.x"
+    }
+}
